@@ -12,6 +12,7 @@ github_username:  nerderrhein
 
 # Build settings
 markdown: kramdown
+permalink: /:year/:month/:day/:title/
 
 # Add plugins
 gems:
