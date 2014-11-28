@@ -1,6 +1,7 @@
 ---
 layout: post
 title: DNS mit nsd und unbound auf OpenBSD
+author: drj
 ---
 
 Seit einigen Wochen läuft auf meinem Heim-Router wieder <a title="OpenBSD" href="http://www.openbsd.org" target="_blank">OpenBSD</a>. Vor ungefähr 10 Jahren war das schon mal der Fall, dann habe ich mich eine Zeit lang abgewendet und wegen der hübschen Graphen und den Webinterfaces <a title="IPCop" href="http://ipcop.org/" target="_blank">IPCop</a>, <a title="PFSense" href="http://pfsense.com/" target="_blank">Pfsense</a> und <a title="IPFire" href="http://www.ipfire.org/" target="_blank">IPfire</a> verwendet, nun also wieder OpenBSD. (Über die Gründe schreibe ich vielleicht ein anderes Mal, für nun genügt das OpenBSD einfach ne <a title="Gruende 1" href="http://bsdhosting.co.za/openbsd.html" target="_blank">Menge</a> <a title="OpenBSD Talk by Michael W. Lucas" href="http://www.youtube.com/watch?v=BXPV3vJF99k" target="_blank">Appeal</a> hat. )

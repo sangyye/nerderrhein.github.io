@@ -17,3 +17,4 @@ permalink: /:year/:month/:day/:title/
 # Add plugins
 gems:
    - jekyll-sitemap
+   - jekyll-mentions
