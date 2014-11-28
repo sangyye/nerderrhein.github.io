@@ -12,3 +12,7 @@ github_username:  nerderrhein
 
 # Build settings
 markdown: kramdown
+
+# Add plugins
+gems:
+   - jekyll-sitemap
