@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Die ist die Seite des Nerderrhein Channels auf [freenode.net](irc://irc.freenode.net/nerderrhein). Wir unterhalten uns über alles was wir irgendwie für relevant oder wichtig halten. Aktuell sind die Ops [dieta](https://twitter.com/klein2) und [sangyye](https://twitter.com/sangyye).
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Diese Seite wurde mit [jekyll](http://jekyllrb.com/) erstellt und wird auf [github]({{ site.github.repository_url }}) gehostet.
+
