@@ -10,7 +10,7 @@ layout: default
       <h1 class="post-title">{{ page.title }}</h1>
     {% endif %}
     <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}
-    	{% if page.author %} • <a href="https://github.com/{{ page.author }}/">{{ page.author }}</a>{% endif %}
+    	{% if page.author %} • <a href="https://github.com/{{ page.author }}/"><img src="https://github.com/{{ page.author }}.png" class="avatar" alt="{{ page.author }}" width="24" height="24">{{ page.author }}</a>{% endif %}
     	{% if page.meta %} • {{ page.meta }}
     	{% endif %}</p>
   </header>
