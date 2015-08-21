@@ -8,6 +8,9 @@ url: "http://nerderrhein.de" # the base hostname & protocol for your site
 twitter_username: nerderrhein
 github_username:  nerderrhein
 
+#Exclude things
+exclude: [Gemfile, Gemfile.lock, CNAME, README.md]
+
 # Build settings
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
