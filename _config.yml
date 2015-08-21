@@ -9,7 +9,7 @@ twitter_username: nerderrhein
 github_username:  nerderrhein
 
 #Exclude things
-exclude: [Gemfile, Gemfile.lock, CNAME, README.md]
+exclude: [Gemfile, Gemfile.lock, CNAME, LICENSE, README.md]
 
 # Build settings
 markdown: kramdown
