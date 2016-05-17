@@ -14,6 +14,7 @@ exclude: [Gemfile, Gemfile.lock, CNAME, LICENSE, README.md]
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
 permalink: /:year/:month/:day/:title/
 
 # Add plugins
@@ -21,3 +22,7 @@ gems:
    - jekyll-sitemap
    - jekyll-mentions
    - jekyll-feed
+   - jekyll-seo-tag
+
+twitter:
+   username: nerderrhein
