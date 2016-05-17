@@ -3,7 +3,6 @@ sudo: false
 cache: bundler
 rvm:
   - 2.2
-  - 2.3
 script: bundle exec jekyll build && htmlproofer --check-html --disable-external ./_site
 install: bundle install
 
