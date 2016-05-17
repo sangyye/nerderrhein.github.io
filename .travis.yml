@@ -2,9 +2,9 @@ language: ruby
 sudo: false
 cache: bundler
 rvm:
-  - 2.1
   - 2.2
-script: bundle exec jekyll build && htmlproof --check-html --disable-external ./_site
+  - 2.3
+script: bundle exec jekyll build && htmlproofer --check-html --disable-external ./_site
 install: bundle install
 
 env:
